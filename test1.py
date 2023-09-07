@@ -3,6 +3,24 @@ print("ya no se jaja")
 print("Pruebaa 111")
 print("ya no se jaja")
 print("Pruebaa 111")
+
+
+edeedwendwdew2
+
+dewdewdedew
+dewdwedewdwed
+wedwedewd
+dewdwedewdwed
+
+dewdwedewdwedwedwe
+dewdwedewdwed
+
+
+dewdwedewdwed
+
+
+
+dewdewdew
 print("ya no se jaja")
 print("Pruebaa 111")
 print("ya no se jaja")
