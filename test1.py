@@ -1,3 +1,1 @@
-xdqwxqwxqw
-xdqwxqwxqwxqwxqw
-xqwxqw
+print("dfeewewe")
