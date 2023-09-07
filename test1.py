@@ -4,23 +4,26 @@ print("Pruebaa 111")
 print("ya no se jaja")
 print("Pruebaa 111")
 
+def sjas(sas):
+    sas = 0
+    return sas
 
-edeedwendwdew2
+print("ksskasa")
 
-dewdewdedew
-dewdwedewdwed
-wedwedewd
-dewdwedewdwed
+def tres(trece)
+    trece = 98
+    return trece
 
-dewdwedewdwedwedwe
-dewdwedewdwed
+def sjas(sas):
+    sas = 0
+    return sas
 
+print("ksskasa")
 
-dewdwedewdwed
+def tres(trece)
+    trece = 98
+    return trece
 
-
-
-dewdewdew
 print("ya no se jaja")
 print("Pruebaa 111")
 print("ya no se jaja")
