@@ -6,3 +6,7 @@ def sjas(sas):
     return sas
 
 print("ksskasa")
+
+def tres(trece)
+    trece = 98
+    return trece
