@@ -13,7 +13,7 @@ def sjas(sas):
 
 print("ksskasa")
 
-def tres(trece)
+def tres(trece):
     trece = 98
     return trece
 
